@@ -1,638 +1,638 @@
 {
-    "url": "https:\/\/t.co\/FzPO1cUHrK?amp=1",
-    "user-agent": [
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 8.1.0; BBB100-1) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/84.0.4147.111 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; TRT-LX2 Build\/HUAWEITRT-LX2; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/59.0.3071.125 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0;) AppleWebKit\/537.36 (KHTML, like Gecko) Mobile Safari\/537.36 (compatible; AspiegelBot)"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 10; HD1911) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/78.0.3904.90 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.1.2; Redmi 4X Build\/N2G47H) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/63.0.3239.111 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 8.0.0; SAMSUNG SM-G950F Build\/R16NW) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/7.4 Chrome\/59.0.3071.125 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; LM-Q720) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/74.0.3729.136 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; Moto G (4) Build\/NPJS25.93-14-18) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/67.0.3396.87 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; SM-G610F Build\/NRD90M) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/63.0.3239.111 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; Redmi Note 4 Build\/NRD90M) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/63.0.3239.111 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; SM-J730GM Build\/NRD90M) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/63.0.3239.111 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 10; SAMSUNG SM-G960U) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/11.1 Chrome\/75.0.3770.143 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.1.2; Redmi Note 5A Build\/N2G47H; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/63.0.3239.111 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; BLL-L22 Build\/HUAWEIBLL-L22) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.91 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.1.1; CPH1723 Build\/N6F26Q) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/61.0.3163.98 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; SM-J710F Build\/NRD90M) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/62.0.3202.84 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; SAMSUNG SM-N920C Build\/NRD90M) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/6.2 Chrome\/56.0.2924.87 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SAMSUNG SM-G950U) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/10.1 Chrome\/71.0.3578.99 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SAMSUNG SM-G965U) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/10.2 Chrome\/71.0.3578.99 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 8.0.0; FIG-LX3 Build\/HUAWEIFIG-LX3) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/69.0.3497.100 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SM-A102U Build\/PPR1.180610.011; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/74.0.3729.136 Mobile Safari\/537.36 Instagram 155.0.0.37.107 Android (28\/9; 320dpi; 720x1468; samsung; SM-A102U; a10e; exynos7885; en_US; 239490550)"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SAMSUNG SM-N950U) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/10.2 Chrome\/71.0.3578.99 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; SAMSUNG SM-G570M Build\/NRD90M) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/7.4 Chrome\/59.0.3071.125 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Android 10; Mobile; rv:68.0) Gecko\/68.0 Firefox\/68.0"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; SM-G610M) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.3538.80 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0;) AppleWebKit\/537.36 (KHTML, like Gecko) Mobile Safari\/537.36 (compatible; PetalBot;+http:\/\/aspiegel.com\/petalbot)"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; Moto G (5) Plus Build\/NPNS25.137-92-14) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/68.0.3440.91 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SM-A205U) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/74.0.3729.136 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.1.1; Moto G (5S) Build\/NPPS26.102-49-11) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/68.0.3440.91 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; SM-G610M Build\/NRD90M) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/67.0.3396.87 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SAMSUNG SM-G955U) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/10.2 Chrome\/71.0.3578.99 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; SM-G610M Build\/NRD90M) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/68.0.3440.91 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SAMSUNG SM-G950U) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/11.1 Chrome\/75.0.3770.143 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SAMSUNG SM-G965U) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/10.1 Chrome\/71.0.3578.99 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; SM-G570M Build\/NRD90M) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/68.0.3440.91 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 8.0.0; WAS-LX3 Build\/HUAWEIWAS-LX3) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/69.0.3497.100 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.1.2; AFTMM Build\/NS6268; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/70.0.3538.110 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.1.1; Moto G (5S) Build\/NPPS26.102-49-11) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/67.0.3396.87 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 10; SM-A105M Build\/QP1A.190711.020; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/85.0.4183.101 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/287.0.0.50.119;]"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; TRT-LX3 Build\/HUAWEITRT-LX3) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/69.0.3497.100 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; SM-G570M) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.3538.80 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SAMSUNG SM-N950U) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/10.1 Chrome\/71.0.3578.99 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; SAMSUNG SM-G950F Build\/NRD90M) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/5.2 Chrome\/51.0.2704.106 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 8.0.0; ANE-LX3 Build\/HUAWEIANE-LX3) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/69.0.3497.100 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SAMSUNG SM-G955U) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/10.1 Chrome\/71.0.3578.99 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; U; Android 8.1.0; zh-CN; EML-AL00 Build\/HUAWEIEML-AL00) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/57.0.2987.108 baidu.sogo.uc.UCBrowser\/11.9.4.974 UWS\/2.13.1.48 Mobile Safari\/537.36 AliApp(DingTalk\/4.5.11) com.alibaba.android.rimet\/10487439 Channel\/227200 language\/zh-CN"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 10; SAMSUNG SM-G965U) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/11.1 Chrome\/75.0.3770.143 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.1.1; Moto G Play Build\/NPIS26.48-43-2) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/69.0.3497.100 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SM-G960U) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.93 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; Moto G (5) Build\/NPPS25.137-93-14) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/69.0.3497.100 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.1.1; Moto E (4) Plus Build\/NMA26.42-162) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/69.0.3497.100 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; Moto G (4)) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.3538.80 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 8.1.0; Moto G (5)) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.3538.80 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; moto g(7) power) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.90 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 8.1.0; SM-J260T1 Build\/M1AJQ) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/69.0.3497.100 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SAMSUNG SM-S767VL) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/10.2 Chrome\/71.0.3578.99 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; Moto C Build\/NRD90M.059) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/69.0.3497.100 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SAMSUNG SM-N960U) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/10.2 Chrome\/71.0.3578.99 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; Moto G (4) Build\/NPJS25.93-14-18) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/69.0.3497.100 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SM-N960U) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.93 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; Moto G (5)) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.3538.80 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SAMSUNG SM-A102U) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/10.2 Chrome\/71.0.3578.99 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.1.1; Moto G (5S) Plus Build\/NPSS26.116-64-11) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/68.0.3440.91 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Android 8.0.0; Mobile; rv:68.0) Gecko\/68.0 Firefox\/68.0"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SAMSUNG SM-N950U) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/11.1 Chrome\/75.0.3770.143 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; LM-Q720) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/78.0.3904.108 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; SM-J710MN Build\/NRD90M) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/69.0.3497.100 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; LM-Q720) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.93 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SM-N960U) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/78.0.3904.108 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 8.0.0; moto g(6) play Build\/OPP27.91-87) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/69.0.3497.100 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; Moto G (4) Build\/NPJS25.93-14-18) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/68.0.3440.91 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; LG-M250 Build\/NRD90U) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/67.0.3396.87 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SM-A105M) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.136 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; Moto G (4) Build\/NPJS25.93-14-15) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/65.0.3325.109 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SM-G960U) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/78.0.3904.108 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SAMSUNG SM-A205U) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/10.2 Chrome\/71.0.3578.99 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 8.0.0; SM-G950F Build\/R16NW) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/69.0.3497.100 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 8.0.0; FIG-LX3) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.3538.80 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SM-G950U) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.93 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.1.1; Moto G (5S) Plus Build\/NPSS26.116-64-11) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/67.0.3396.87 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Dalvik\/2.1.0 (Linux; U; Android 9; SM-G960U Build\/PPR1.180610.011)"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 8.1.0; LM-Q710(FGN)) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/78.0.3904.108 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SAMSUNG SM-G955U) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/11.1 Chrome\/75.0.3770.143 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 10; SAMSUNG SM-G960U) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/11.2 Chrome\/75.0.3770.143 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; LM-X220) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/74.0.3729.136 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SAMSUNG SM-G960F Build\/PPR1.180610.011) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/9.2 Chrome\/67.0.3396.87 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SAMSUNG SM-A205U) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/11.1 Chrome\/75.0.3770.143 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 8.0.0; SM-G930F) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/74.0.3729.157 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; LM-X420) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/74.0.3729.136 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.1.1; Moto E (4) Plus) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.3538.80 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 8.0.0; SAMSUNG SM-G930F Build\/R16NW) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/7.4 Chrome\/59.0.3071.125 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; moto e6) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/74.0.3729.136 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SAMSUNG SM-G950F Build\/PPR1.180610.011) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/9.2 Chrome\/67.0.3396.87 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SAMSUNG SM-A102U) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/11.1 Chrome\/75.0.3770.143 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SM-G965U) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.93 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 8.0.0; moto e5 play) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/78.0.3904.108 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 8.0.0; SAMSUNG SM-G935F Build\/R16NW) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/7.4 Chrome\/59.0.3071.125 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; LM-Q720) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.116 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Dalvik\/2.1.0 (Linux; U; Android 9; SM-G950U Build\/PPR1.180610.011)"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; SAMSUNG SM-J701MT Build\/NRD90M) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/6.4 Chrome\/56.0.2924.87 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SAMSUNG SM-S367VL) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/10.2 Chrome\/71.0.3578.99 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SM-A205U) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.93 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; LG-M250 Build\/NRD90U) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/69.0.3497.100 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 8.0.0; SAMSUNG SM-G955F Build\/R16NW) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/7.4 Chrome\/59.0.3071.125 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; SM-J710MN) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.3538.80 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SM-G950U) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/78.0.3904.108 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 10; SAMSUNG SM-G975U) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/11.0 Chrome\/75.0.3770.143 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; LG-M250 Build\/NRD90U) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/68.0.3440.91 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 8.1.0; LM-Q710(FGN)) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.3538.110 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; Moto G (5) Build\/NPPS25.137-93-2-5) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/68.0.3440.91 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; HUAWEI VNS-L21 Build\/HUAWEIVNS-L21) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/64.0.3282.137 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 8.0.0; ANE-LX3) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.3538.80 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SAMSUNG SM-N960U) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/10.1 Chrome\/71.0.3578.99 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 8.1.0; LM-Q710(FGN)) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.93 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SM-A102U) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/78.0.3904.108 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SM-A102U) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.93 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SM-A205U) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/78.0.3904.108 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.1.1; Moto G (5S) Build\/NPPS26.102-49-4) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/65.0.3325.109 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 8.0.0; SM-G935F Build\/R16NW) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/69.0.3497.100 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.1.1; SM-T567V Build\/NMF26X; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/70.0.3538.80 Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SM-G975F Build\/PPR1.180610.011; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/74.0.3729.157 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SM-G975U) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/78.0.3904.108 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SAMSUNG SM-G960U Build\/PPR1.180610.011) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/9.4 Chrome\/67.0.3396.87 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Android 8.1.0; Mobile; rv:68.0) Gecko\/68.0 Firefox\/68.0"
-        },
-        {
-            "agent": "Dalvik\/2.1.0 (Linux; U; Android 9; SM-G965U Build\/PPR1.180610.011)"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 8.0.0; SM-G930F Build\/R16NW) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/69.0.3497.100 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 8.1.0; Moto G (5S)) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.3538.80 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SM-G950F) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/74.0.3729.157 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.1.1; Moto G (5S) Build\/NPPS26.102-49-14) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/69.0.3497.100 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; SM-G930F Build\/NRD90M) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/63.0.3239.111 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 8.0.0; ANE-LX1) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/74.0.3729.157 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 8.0.0; moto e5 play) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.93 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SAMSUNG SM-S767VL) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/10.1 Chrome\/71.0.3578.99 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.1.1; Moto G Play Build\/NPIS26.48-43-2) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/68.0.3440.91 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SM-G965U) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/78.0.3904.108 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; TRT-L53 Build\/HUAWEITRT-L53) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/69.0.3497.100 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 8.1.0; Moto G (5S) Plus) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.3538.80 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Dalvik\/2.1.0 (Linux; U; Android 8.0.0; SM-G930V Build\/R16NW)"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 8.1.0; SM-J710MN) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/77.0.3865.92 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SM-G955F Build\/PPR1.180610.011; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/74.0.3729.157 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SM-N960F Build\/PPR1.180610.011; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/74.0.3729.157 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Dalvik\/2.1.0 (Linux; U; Android 7.1.2; AFTMM Build\/NS6264) CTV"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 8.1.0; SM-G610M) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.3538.110 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 10; SAMSUNG SM-G975U) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/11.1 Chrome\/75.0.3770.143 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 10; SAMSUNG SM-N960U) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/11.1 Chrome\/75.0.3770.143 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 8.0.0; SM-G950F Build\/R16NW) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/67.0.3396.87 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 8.0.0; SM-G950F) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.3538.80 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.1.1; Moto E (4) Plus Build\/NMA26.42-152) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/69.0.3497.100 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SM-N950U) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.93 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; HUAWEI VNS-L23 Build\/HUAWEIVNS-L23) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/69.0.3497.100 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.1.1; Moto G Play) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.3538.80 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 8.0.0; SAMSUNG SM-A520F Build\/R16NW) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/7.4 Chrome\/59.0.3071.125 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 10; SAMSUNG SM-G960U) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/12.1 Chrome\/79.0.3945.136 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; Moto G (5) Plus Build\/NPNS25.137-92-14) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/69.0.3497.100 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 8.0.0; SM-A520F Build\/R16NW) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/69.0.3497.100 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SM-G955U) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/77.0.3865.92 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SAMSUNG SM-G960U Build\/PPR1.180610.011) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/9.2 Chrome\/67.0.3396.87 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 8.0.0; SM-G930F) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.3538.80 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 10; SAMSUNG SM-G970U) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/11.0 Chrome\/75.0.3770.143 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; Moto G (5) Plus Build\/NPNS25.137-92-14) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/67.0.3396.87 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; SM-J710MN Build\/NRD90M) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/68.0.3440.91 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; Moto G (5) Build\/NPPS25.137-93-2-3) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/67.0.3396.87 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SM-G973F Build\/PPR1.180610.011; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/74.0.3729.157 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; SM-J701MT Build\/NRD90M) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/64.0.3282.137 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 10; SAMSUNG SM-G973U) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/11.0 Chrome\/75.0.3770.143 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 8.0.0; SM-A520F Build\/R16NW) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/68.0.3440.91 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SAMSUNG SM-G950U) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/11.2 Chrome\/75.0.3770.143 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.1.1; Moto G (5S)) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.3538.80 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 10; SAMSUNG SM-N975U) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/11.1 Chrome\/75.0.3770.143 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; LM-Q720) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/81.0.4044.138 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; Moto C Build\/NRD90M.063) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/69.0.3497.100 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 8.0.0; moto g(6) play) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.3538.80 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; moto g(7) play) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.90 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SAMSUNG SM-G950F) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/10.1 Chrome\/71.0.3578.99 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; Moto G (4) Build\/NPJS25.93-14-13) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/64.0.3282.137 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SM-G955U) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/78.0.3904.108 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 8.0.0; SM-G935F Build\/R16NW; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/74.0.3729.157 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SAMSUNG SM-G975U) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/10.1 Chrome\/71.0.3578.99 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 10; SAMSUNG SM-G965U) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/11.2 Chrome\/75.0.3770.143 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; SM-G935F Build\/NRD90M) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/65.0.3325.109 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SM-G955U) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.93 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SM-N950U) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/78.0.3904.108 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; SM-J730G Build\/NRD90M) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/69.0.3497.100 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; SAMSUNG SM-G610M Build\/NRD90M) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/7.2 Chrome\/59.0.3071.125 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 8.0.0; moto g(6) play Build\/OPP27.91-143) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/69.0.3497.100 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SM-A102U) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/80.0.3987.162 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; moto g(7) power) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/79.0.3945.93 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; SM-G610M Build\/NRD90M; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/69.0.3497.100 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/193.0.0.45.101;]"
-        },
-        {
-            "agent": "Dalvik\/2.1.0 (Linux; U; Android 9; SM-G955U Build\/PPR1.180610.011)"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; SAMSUNG SM-J327T1) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/10.1 Chrome\/71.0.3578.99 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 8.0.0; SAMSUNG SM-G930F) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/11.2 Chrome\/75.0.3770.143 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.1.1; Moto G (5S) Build\/NPPS26.102-49-1) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/64.0.3282.137 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; SM-G930F Build\/NRD90M) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/65.0.3325.109 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 10; SAMSUNG SM-G973U) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/11.1 Chrome\/75.0.3770.143 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 8.1.0; LM-X410(FG)) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.3538.110 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; SM-G930F Build\/NRD90M) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/64.0.3282.137 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; SM-G610M Build\/NRD90M; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/69.0.3497.100 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/192.0.0.34.85;]"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 8.1.0; LM-X210(G)) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.3538.110 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 8.0.0; SAMSUNG SM-G930F) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/12.1 Chrome\/79.0.3945.136 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; LM-Q720) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/80.0.3987.149 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; SAMSUNG SM-G950F Build\/NRD90M) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/6.2 Chrome\/56.0.2924.87 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; SM-J710MN Build\/NRD90M) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/67.0.3396.87 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; Moto C Plus Build\/NRD90M.04.026) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/69.0.3497.100 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SAMSUNG SM-G950F) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/12.1 Chrome\/79.0.3945.136 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SAMSUNG SM-A102U) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/10.1 Chrome\/71.0.3578.99 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 7.0; TRT-LX3) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.3538.80 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; SM-A102U) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/80.0.3987.149 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 8.0.0; SM-A520F) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.3538.80 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; 5032W) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/74.0.3729.136 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 9; LM-Q720) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/83.0.4103.106 Mobile Safari\/537.36"
-        },
-        {
-            "agent": "Mozilla\/5.0 (Linux; Android 8.1.0; SAMSUNG SM-J727T1) AppleWebKit\/537.36 (KHTML, like Gecko) SamsungBrowser\/10.1 Chrome\/71.0.3578.99 Mobile Safari\/537.36"
-        }
-    ]
+"url": "https://t.co/FzPO1cUHrK?amp=1",
+"user-agent": [
+{
+"agent": "Mozilla/5.0 (Linux; Android 8.1.0; BBB100-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.111 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; TRT-LX2 Build/HUAWEITRT-LX2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/59.0.3071.125 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; AspiegelBot)"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 10; HD1911) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.90 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.1.2; Redmi 4X Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG SM-G950F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/7.4 Chrome/59.0.3071.125 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.136 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; Moto G (4) Build/NPJS25.93-14-18) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; SM-G610F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; Redmi Note 4 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; SM-J730GM Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-G960U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/11.1 Chrome/75.0.3770.143 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.1.2; Redmi Note 5A Build/N2G47H; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/63.0.3239.111 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; BLL-L22 Build/HUAWEIBLL-L22) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.91 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.98 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; SM-J710F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; SAMSUNG SM-N920C Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/6.2 Chrome/56.0.2924.87 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-G950U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/10.1 Chrome/71.0.3578.99 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-G965U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/10.2 Chrome/71.0.3578.99 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 8.0.0; FIG-LX3 Build/HUAWEIFIG-LX3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SM-A102U Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.136 Mobile Safari/537.36 Instagram 155.0.0.37.107 Android (28/9; 320dpi; 720x1468; samsung; SM-A102U; a10e; exynos7885; en_US; 239490550)"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-N950U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/10.2 Chrome/71.0.3578.99 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; SAMSUNG SM-G570M Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/7.4 Chrome/59.0.3071.125 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Android 10; Mobile; rv:68.0) Gecko/68.0 Firefox/68.0"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; SM-G610M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.80 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+http://aspiegel.com/petalbot)"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; Moto G (5) Plus Build/NPNS25.137-92-14) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.136 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.1.1; Moto G (5S) Build/NPPS26.102-49-11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; SM-G610M Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-G955U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/10.2 Chrome/71.0.3578.99 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; SM-G610M Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-G950U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/11.1 Chrome/75.0.3770.143 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-G965U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/10.1 Chrome/71.0.3578.99 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; SM-G570M Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 8.0.0; WAS-LX3 Build/HUAWEIWAS-LX3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.1.2; AFTMM Build/NS6268; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.110 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.1.1; Moto G (5S) Build/NPPS26.102-49-11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 10; SM-A105M Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/85.0.4183.101 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/287.0.0.50.119;]"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; TRT-LX3 Build/HUAWEITRT-LX3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; SM-G570M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.80 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-N950U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/10.1 Chrome/71.0.3578.99 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; SAMSUNG SM-G950F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/5.2 Chrome/51.0.2704.106 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 8.0.0; ANE-LX3 Build/HUAWEIANE-LX3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-G955U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/10.1 Chrome/71.0.3578.99 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-CN; EML-AL00 Build/HUAWEIEML-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.108 baidu.sogo.uc.UCBrowser/11.9.4.974 UWS/2.13.1.48 Mobile Safari/537.36 AliApp(DingTalk/4.5.11) com.alibaba.android.rimet/10487439 Channel/227200 language/zh-CN"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-G965U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/11.1 Chrome/75.0.3770.143 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.1.1; Moto G Play Build/NPIS26.48-43-2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SM-G960U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.93 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; Moto G (5) Build/NPPS25.137-93-14) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.1.1; Moto E (4) Plus Build/NMA26.42-162) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.80 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 8.1.0; Moto G (5)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.80 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; moto g(7) power) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.90 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 8.1.0; SM-J260T1 Build/M1AJQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-S767VL) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/10.2 Chrome/71.0.3578.99 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; Moto C Build/NRD90M.059) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-N960U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/10.2 Chrome/71.0.3578.99 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; Moto G (4) Build/NPJS25.93-14-18) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SM-N960U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.93 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; Moto G (5)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.80 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/10.2 Chrome/71.0.3578.99 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.1.1; Moto G (5S) Plus Build/NPSS26.116-64-11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Android 8.0.0; Mobile; rv:68.0) Gecko/68.0 Firefox/68.0"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-N950U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/11.1 Chrome/75.0.3770.143 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; SM-J710MN Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.93 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SM-N960U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 8.0.0; moto g(6) play Build/OPP27.91-87) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; Moto G (4) Build/NPJS25.93-14-18) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; LG-M250 Build/NRD90U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SM-A105M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.136 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; Moto G (4) Build/NPJS25.93-14-15) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SM-G960U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/10.2 Chrome/71.0.3578.99 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 8.0.0; SM-G950F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 8.0.0; FIG-LX3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.80 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SM-G950U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.93 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.1.1; Moto G (5S) Plus Build/NPSS26.116-64-11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36"
+},
+{
+"agent": "Dalvik/2.1.0 (Linux; U; Android 9; SM-G960U Build/PPR1.180610.011)"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 8.1.0; LM-Q710(FGN)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-G955U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/11.1 Chrome/75.0.3770.143 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-G960U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/11.2 Chrome/75.0.3770.143 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; LM-X220) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.136 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-G960F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/9.2 Chrome/67.0.3396.87 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/11.1 Chrome/75.0.3770.143 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 8.0.0; SM-G930F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; LM-X420) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.136 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.1.1; Moto E (4) Plus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.80 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG SM-G930F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/7.4 Chrome/59.0.3071.125 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; moto e6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.136 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-G950F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/9.2 Chrome/67.0.3396.87 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/11.1 Chrome/75.0.3770.143 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SM-G965U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.93 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 8.0.0; moto e5 play) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG SM-G935F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/7.4 Chrome/59.0.3071.125 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.116 Mobile Safari/537.36"
+},
+{
+"agent": "Dalvik/2.1.0 (Linux; U; Android 9; SM-G950U Build/PPR1.180610.011)"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; SAMSUNG SM-J701MT Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/6.4 Chrome/56.0.2924.87 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-S367VL) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/10.2 Chrome/71.0.3578.99 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.93 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; LG-M250 Build/NRD90U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG SM-G955F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/7.4 Chrome/59.0.3071.125 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; SM-J710MN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.80 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SM-G950U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-G975U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/11.0 Chrome/75.0.3770.143 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; LG-M250 Build/NRD90U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 8.1.0; LM-Q710(FGN)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; Moto G (5) Build/NPPS25.137-93-2-5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; HUAWEI VNS-L21 Build/HUAWEIVNS-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.137 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 8.0.0; ANE-LX3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.80 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-N960U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/10.1 Chrome/71.0.3578.99 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 8.1.0; LM-Q710(FGN)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.93 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.93 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.1.1; Moto G (5S) Build/NPPS26.102-49-4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 8.0.0; SM-G935F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.1.1; SM-T567V Build/NMF26X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.80 Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SM-G975F Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.157 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SM-G975U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-G960U Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/9.4 Chrome/67.0.3396.87 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Android 8.1.0; Mobile; rv:68.0) Gecko/68.0 Firefox/68.0"
+},
+{
+"agent": "Dalvik/2.1.0 (Linux; U; Android 9; SM-G965U Build/PPR1.180610.011)"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 8.0.0; SM-G930F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 8.1.0; Moto G (5S)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.80 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SM-G950F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.1.1; Moto G (5S) Build/NPPS26.102-49-14) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; SM-G930F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 8.0.0; ANE-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 8.0.0; moto e5 play) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.93 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-S767VL) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/10.1 Chrome/71.0.3578.99 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.1.1; Moto G Play Build/NPIS26.48-43-2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SM-G965U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; TRT-L53 Build/HUAWEITRT-L53) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 8.1.0; Moto G (5S) Plus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.80 Mobile Safari/537.36"
+},
+{
+"agent": "Dalvik/2.1.0 (Linux; U; Android 8.0.0; SM-G930V Build/R16NW)"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 8.1.0; SM-J710MN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.92 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SM-G955F Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.157 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SM-N960F Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.157 Mobile Safari/537.36"
+},
+{
+"agent": "Dalvik/2.1.0 (Linux; U; Android 7.1.2; AFTMM Build/NS6264) CTV"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 8.1.0; SM-G610M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-G975U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/11.1 Chrome/75.0.3770.143 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-N960U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/11.1 Chrome/75.0.3770.143 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 8.0.0; SM-G950F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 8.0.0; SM-G950F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.80 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.1.1; Moto E (4) Plus Build/NMA26.42-152) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SM-N950U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.93 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; HUAWEI VNS-L23 Build/HUAWEIVNS-L23) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.1.1; Moto G Play) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.80 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG SM-A520F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/7.4 Chrome/59.0.3071.125 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-G960U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/12.1 Chrome/79.0.3945.136 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; Moto G (5) Plus Build/NPNS25.137-92-14) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 8.0.0; SM-A520F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SM-G955U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.92 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-G960U Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/9.2 Chrome/67.0.3396.87 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 8.0.0; SM-G930F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.80 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-G970U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/11.0 Chrome/75.0.3770.143 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; Moto G (5) Plus Build/NPNS25.137-92-14) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; SM-J710MN Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; Moto G (5) Build/NPPS25.137-93-2-3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SM-G973F Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.157 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; SM-J701MT Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.137 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-G973U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/11.0 Chrome/75.0.3770.143 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 8.0.0; SM-A520F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-G950U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/11.2 Chrome/75.0.3770.143 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.1.1; Moto G (5S)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.80 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-N975U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/11.1 Chrome/75.0.3770.143 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; Moto C Build/NRD90M.063) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 8.0.0; moto g(6) play) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.80 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; moto g(7) play) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.90 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-G950F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/10.1 Chrome/71.0.3578.99 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; Moto G (4) Build/NPJS25.93-14-13) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.137 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SM-G955U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 8.0.0; SM-G935F Build/R16NW; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.157 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-G975U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/10.1 Chrome/71.0.3578.99 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-G965U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/11.2 Chrome/75.0.3770.143 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; SM-G935F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SM-G955U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.93 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SM-N950U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; SM-J730G Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; SAMSUNG SM-G610M Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/7.2 Chrome/59.0.3071.125 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 8.0.0; moto g(6) play Build/OPP27.91-143) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; moto g(7) power) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.93 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; SM-G610M Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/69.0.3497.100 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/193.0.0.45.101;]"
+},
+{
+"agent": "Dalvik/2.1.0 (Linux; U; Android 9; SM-G955U Build/PPR1.180610.011)"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; SAMSUNG SM-J327T1) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/10.1 Chrome/71.0.3578.99 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG SM-G930F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/11.2 Chrome/75.0.3770.143 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.1.1; Moto G (5S) Build/NPPS26.102-49-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.137 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; SM-G930F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-G973U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/11.1 Chrome/75.0.3770.143 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 8.1.0; LM-X410(FG)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; SM-G930F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.137 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; SM-G610M Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/69.0.3497.100 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/192.0.0.34.85;]"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 8.1.0; LM-X210(G)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG SM-G930F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/12.1 Chrome/79.0.3945.136 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; SAMSUNG SM-G950F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/6.2 Chrome/56.0.2924.87 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; SM-J710MN Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; Moto C Plus Build/NRD90M.04.026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-G950F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/12.1 Chrome/79.0.3945.136 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/10.1 Chrome/71.0.3578.99 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 7.0; TRT-LX3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.80 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 8.0.0; SM-A520F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.80 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; 5032W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.136 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 9; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36"
+},
+{
+"agent": "Mozilla/5.0 (Linux; Android 8.1.0; SAMSUNG SM-J727T1) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/10.1 Chrome/71.0.3578.99 Mobile Safari/537.36"
+}
+]
 }
